@@ -22,6 +22,9 @@
  </div>
  
  
+
+![Snake animation](https://github.com/Lucas-Gabriel0)
+
  </br>
  
  <div dir="auto"> 
