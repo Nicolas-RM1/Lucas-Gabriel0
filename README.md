@@ -34,17 +34,6 @@
  </br>
 
 
-
-
-
-
-
-
-
-
-
-
-
 ##  
 
 - 👨‍💻 Desenvolvedor de Apps nativos com foco em React Native
@@ -54,7 +43,4 @@
 - 📧 gabriel.luc145p@gmail.com
 
 
-- 🤝 Disposto a colaborar e contribuir com projetos relacionados ao desenvolvimento de aplicativos
-- 💬 Se você está procurando um desenvolvedor dedicado, focado em resultados e com interesse em aprender, entre em contato comigo!
-- 📧 gabriel.luc145p@gmail.com
 
