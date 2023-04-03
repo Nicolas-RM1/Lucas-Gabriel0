@@ -1,0 +1,16 @@
+name: Atualizar cobrinha
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Atualizar cobrinha
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.actor }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
