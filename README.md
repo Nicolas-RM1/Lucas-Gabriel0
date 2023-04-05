@@ -50,7 +50,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🤝 Disposto a colaborar e contribuir com projetos relacionados ao desenvolvimento de aplicativos
 - 💬 Se você está procurando um desenvolvedor dedicado, focado em resultados e com interesse em aprender, entre em contato comigo!
-- 📧 gabriel.luc145p@gmail.com
+- 📧 contatoluucasgabriel@gmail.com
 
 
 
